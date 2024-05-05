@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="login.html" class="login-link">Tugas 1 Membuat halaman website</a>
+### <a href="login.html" class="login-link">Tugas 1 Membuat halaman website</a>
 
 <!--
 **SyalPratama/SyalPratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
