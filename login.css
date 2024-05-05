@@ -1,0 +1,147 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff0000;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header form {
+  margin-top: 10px;
+}
+
+header input[type="text"] {
+  padding: 8px;
+  width: 300px;
+}
+
+header button {
+  padding: 8px 20px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+nav {
+  background-color: #f2f2f2;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+main {
+  padding: 20px;
+}
+
+.video {
+  margin-bottom: 20px;
+}
+
+.video iframe {
+  width: 100%;
+}
+
+.video h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.video p {
+  font-size: 14px;
+  color: #555;
+}
+
+footer {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 10px 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 15px;
+}
+
+.login-form {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+input[type="text"],
+input[type="password"],
+button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #1877f2;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #166fe5;
+}
+
+a {
+  display: block;
+  text-align: center;
+  color: #1877f2;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.separator {
+  border-bottom: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+.create-account {
+  background-color: #42b72a;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.create-account:hover {
+  background-color: #36a420;
+}
