@@ -1,5 +1,4 @@
-### Hi, My Name is Muhammad Faisyal 👋
-### Teknologi Rekayasa Perangkat Lunak
+### Hi there 👋
 ### <a href="login.html">Tugas 1 Membuat halaman website</a>
 
 <!--
