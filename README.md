@@ -7,7 +7,7 @@
 I'm a passionate **Fullstack Web Developer** and **Web Security Enthusiast** with experience building scalable, secure, and efficient web applications. I love turning complex problems into simple, beautiful, and user-friendly solutions.
 
 - 💻 Skilled in **JavaScript**, **PHP**, **Python**, **Laravel**, and more.
-- 🔒 Experienced in web application security: penetration testing, vulnerability assessment, OWASP top 10, and secure coding practices.
+- 🔒 Experienced in web application security: penetration testing, vulnerability assessment and secure coding practices.
 - 🚀 Strong background in developing RESTful APIs, database design, and deploying cloud-native applications.
 - 🌐 Always eager to learn new tech, contribute to open source, and share knowledge.
 
