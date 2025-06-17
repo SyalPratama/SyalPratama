@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Faisyal 👋
+# Hi there, I'm Faisyal Pratama 👋
 
 ![profile-banner](https://user-images.githubusercontent.com/yourusername/yourbanner.gif)
 
