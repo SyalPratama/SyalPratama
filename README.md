@@ -19,8 +19,12 @@ I'm a passionate **Fullstack Web Developer** and **Web Security Enthusiast** wit
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Superset](https://img.shields.io/badge/Superset-E1575B?logo=apache&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -54,5 +58,5 @@ I'm a passionate **Fullstack Web Developer** and **Web Security Enthusiast** wit
 
 ---
 
-*Last updated on: 2025-06-01*
+*Last updated on: 2025-06-21*
 
