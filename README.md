@@ -13,6 +13,7 @@ I'm a passionate **Fullstack Web Developer** and **Web Security Enthusiast** wit
 
 ---
 
+[![An image of @syalpratama's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syalpratama)](https://holopin.io/@syalpratama)
 ## My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
