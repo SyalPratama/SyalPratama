@@ -37,7 +37,6 @@ I'm a passionate **Fullstack Web Developer** and **Web Security Enthusiast** wit
 - Secure apps against common vulnerabilities: SQL Injection, XSS, CSRF, etc.
 - Perform penetration testing and code audits.
 - Design and optimize REST APIs.
-- Mentor junior developers and collaborate in agile teams.
 
 ---
 
