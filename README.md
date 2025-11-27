@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Faisyal Pratama - Profile</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gradient-to-b from-gray-100 via-gray-50 to-gray-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 text-gray-800 dark:text-gray-200">
-
-  <div class="max-w-4xl mx-auto p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-2xl transform transition duration-500 hover:scale-105">
-    
-    <!-- Profile Header -->
+ <!-- Profile Header -->
     <div class="text-center">
       <div class="inline-block overflow-hidden rounded-full border-4 border-indigo-500 shadow-xl hover:shadow-2xl transform hover:scale-110 transition duration-500">
         <img src="https://avatars.githubusercontent.com/u/168973863?v=4" alt="Faisyal Pratama" class="w-40 h-40 object-cover">
@@ -96,7 +84,3 @@
       ⭐️ If you like my work, feel free to star my repos!<br>
       <em>Last updated on: 2025-06-21</em>
     </footer>
-  </div>
-
-</body>
-</html>
