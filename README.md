@@ -1,6 +1,8 @@
 # Hi there, I'm Faisyal Pratama 👋
 
-![profile-banner](https://avatars.githubusercontent.com/u/168973863?v=4)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/168973863?v=4" width="150" height="150" style="border-radius:50%;">
+</p>
 
 ## About Me
 
